@@ -7,4 +7,7 @@ The cafe has very large engagement on their TikTok and  Instagram pages, however
 The key feauture and functionality are the five webpages, home page, explore, feed, about, contact. These pages program thorough content about the ins and outs of the cafe. They have functional links, which include a link that will direct you to the map that helps a user find the Cafe. The pages havve large and bold text to enhance the visabiliy of all key information.
 The timeline in which this website was created was 3 weeks. In these week the focus was research, to gain more information about the feel and vibe of the Cafe to help us better create something that will connect with its users. The mapping and outline of the website and what we intended to give to the user, then finally the creation of a visually appealing, content filled and interative website.
 
-
+PART 2 
+This part of the website was about styling. I made use of different styles to make the document more alive. This project delivers a responsive and productive interface foR Here. cafe. It was designed with a modern minimalist aesthetic featuring an organic match green and warm crean color palette. the objective wa to tranform a static layout into a interactive one that scales seamlessly across all viewpoints while maintaining strict alignment integrity.
+W3Schools, 2026. CSS Flexbox. [online] Available at: https://www.w3schools.com/css/css3_flexbox.asp [Accessed 29 May 2026].
+W3Schools, 2026. CSS Responsive Web Design - Media Queries. [online] Available at: https://www.w3schools.com/css/css_rwd_mediaqueries.asp [Accessed 29 May 2026]. 
